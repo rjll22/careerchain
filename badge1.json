@@ -1,0 +1,11 @@
+{
+  "name": "Effective Communication",
+  "description": "Ability to clearly convey a message.",
+  "image": "https://raw.githubusercontent.com/rjll22/careerchain/main/level1.gif",
+  "attributes": [
+    {
+        "trait_type": "type", 
+        "value": "Endorsement"
+    }
+  ]
+}
